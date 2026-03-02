@@ -1,0 +1,5 @@
+.theos/
+packages/
+*.deb
+nohup.out
+/tmp/

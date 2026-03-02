@@ -1,0 +1,11 @@
+Package: com.pivot.wechatbridge
+Name: WeChatBridge
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: WeChat HTTP Bridge for OpenClaw — send/receive WeChat messages via HTTP API
+Maintainer: Pivot
+Author: Pivot
+Section: Tweaks
+Depends: mobilesubstrate | libhooker | substitute
+Conflicts:
+Replaces:
